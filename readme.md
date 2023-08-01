@@ -114,10 +114,10 @@
 
 ## Projects -
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=chididavid08&repo=agecalculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chididavid08/chididavid08)
 [![Age Calculator](https://github-readme-stats.vercel.app/api/pin/?username=chididavid08&repo=agecalculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chididavid08/agecalculator)
 [![Card Payment](https://github-readme-stats.vercel.app/api/pin/?username=chididavid08&repo=cardpayment&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chididavid08/cardpayment)
 [![Newsletter Homepage](https://github-readme-stats.vercel.app/api/pin/?username=chididavid08&repo=Newsletter-homepage&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chididavid08/Newsletter-homepage)
+[![Newsletter Signup Page](https://github-readme-stats.vercel.app/api/pin/?username=chididavid08&repo=Newsletter-Signup-Page&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/chididavid08/Newsletter-Signup-Page)
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
